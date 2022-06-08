@@ -11,7 +11,7 @@
 #include <chrono>
 #include <sstream>
 #include <d3d9.h>
-#include "D3XD/d3dx9.h"
+#include "D3DX/d3dx9.h"
 
 
 #pragma comment (lib, "d3d9.lib")
